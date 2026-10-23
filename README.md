@@ -6,7 +6,7 @@
 
 Software and game developer from İzmir, studying Computer Programming at İzmir University of Economics. I build games and tools, interactive 3D websites, and ESP32 / Arduino hardware that connects games with the real world, and I share how I make them on [YouTube](https://www.youtube.com/@hasanalpgungor).
 
-**Website:** [hasanalpgungor.com](https://hasanalpgungor.com/en) · Türkçe: [hasanalpgungor.com](https://hasanalpgungor.com)
+**Website:** [hasanalpgungor.com](https://hasanalpgungor.com/en) · Türkçe: [hasanalpgungor.com](https://hasanalpgungor.com) · Norsk: [hasanalpgungor.com/no](https://hasanalpgungor.com/no)
 
 ### Projects
 
@@ -28,6 +28,6 @@ Software and game developer from İzmir, studying Computer Programming at İzmir
 
 ### Find me
 
-[Website](https://hasanalpgungor.com/en) · [LinkedIn](https://www.linkedin.com/in/hasan-alp-g%C3%BCng%C3%B6r-b1085131a/) · [YouTube](https://www.youtube.com/@hasanalpgungor) · [itch.io](https://hasan-alp-gungor.itch.io/)
+[hasan@hasanalpgungor.com](mailto:hasan@hasanalpgungor.com) · [Website](https://hasanalpgungor.com/en) · [LinkedIn](https://www.linkedin.com/in/hasan-alp-g%C3%BCng%C3%B6r-b1085131a/) · [YouTube](https://www.youtube.com/@hasanalpgungor) · [itch.io](https://hasan-alp-gungor.itch.io/)
 
 I speak Turkish, English and Norwegian, and I'm open to internships and project collaborations.
