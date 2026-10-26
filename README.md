@@ -28,6 +28,6 @@ Software and game developer from İzmir, studying Computer Programming at İzmir
 
 ### Find me
 
-[hasan@hasanalpgungor.com](mailto:hasan@hasanalpgungor.com) · [Website](https://hasanalpgungor.com/en) · [LinkedIn](https://www.linkedin.com/in/hasan-alp-g%C3%BCng%C3%B6r-b1085131a/) · [YouTube](https://www.youtube.com/@hasanalpgungor) · [itch.io](https://hasan-alp-gungor.itch.io/) · [dev.to](https://dev.to/hasanalpgungor) · [Hashnode](https://hasanalpgungor.hashnode.dev)
+[hasan@hasanalpgungor.com](mailto:hasan@hasanalpgungor.com) · [Website](https://hasanalpgungor.com/en) · [LinkedIn](https://www.linkedin.com/in/hasanalpgungor/) · [YouTube](https://www.youtube.com/@hasanalpgungor) · [itch.io](https://hasan-alp-gungor.itch.io/) · [dev.to](https://dev.to/hasanalpgungor) · [Hashnode](https://hasanalpgungor.hashnode.dev)
 
 I speak Turkish, English and Norwegian, and I'm open to internships and project collaborations.
